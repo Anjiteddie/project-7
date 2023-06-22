@@ -1,5 +1,5 @@
 body{
-  background: linear-gradient(180deg, rgb(252, 126, 147)10%,white,rgb(216, 107, 216));
+  background: rgb(216, 107, 216);
   margin: 0;
   width:fit-content;
   width:45%;
@@ -21,7 +21,7 @@ h1{
     margin-top: 10%;
     height: 50px;
     width:15%;
-    background-color:rgb(140, 140, 233) ;
+    background-color:rgb(128, 128, 128) ;
     border-radius: 40%;
 }*/
 .box{
@@ -31,13 +31,13 @@ h1{
     margin-left: 65%;
     margin-top: 23%;
     margin-bottom: 30%;
-    background:linear-gradient(rgb(245, 72, 158),grey);
+    background:rgb(255, 230, 230);
      border-spacing: 10%;
     border: 1px solid black;
     box-shadow: 0px 0px 20px 10px rgba(37, 31, 31, 0.808);
     border-radius: 10%;
     }.box:hover{
-      background: linear-gradient(grey,rgb(228, 68, 148));
+      background:rgb(255, 230, 230);
      
     }
     #wait{
