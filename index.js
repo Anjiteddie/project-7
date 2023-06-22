@@ -1,6 +1,6 @@
 var s="";
 var c=1;
-const random=Math.floor(Math.random() *100);
+const random=Math.floor(Math.random() *1000);
 document.getElementById("ch").onclick = function(){
     var a=parseInt(document.getElementById("chk").value);
 {
